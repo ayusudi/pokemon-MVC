@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "level": 12,
+    "ownedDate": "2020-11-29T15:01:13.942Z"
+  },
+  {
+    "id": 2,
+    "name": "Raichu",
+    "level": 37,
+    "ownedDate": "2020-11-29T15:01:13.942Z"
+  },
+  {
+    "id": 3,
+    "name": "Minun",
+    "level": 10,
+    "ownedDate": "2020-11-29T15:01:13.942Z"
+  },
+  {
+    "id": 4,
+    "name": "Plusle",
+    "level": 11,
+    "ownedDate": "2020-11-29T15:01:13.942Z"
+  }
+]
